@@ -15,4 +15,4 @@ We used Xamarin and Azure. We create the app for all the different mobiles OSs.
 
 Heere some screenshots of the project (iOS).
 
-<img src="img/splash.png" width="50%">
+<img src="img/splash.PNG" width="50%">
